@@ -2,3 +2,10 @@
 # a01 A series of tubes
 
 This assignment is intended to dust off the cobwebs and get web basics into your mind since you will need them for all of the rest of the assignments. 
+
+This website is about mythological stories about Korea.
+Home will be about the intro and links about each story.
+First story will be about Dangun, who is the ancestor of Koreans.
+Second story is about Goguryeo.
+Third story is about Baekjae.
+The last story is about Shilla.
