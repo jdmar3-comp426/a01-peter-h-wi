@@ -1,5 +1,6 @@
 .topnav {
     background-color: #333;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     overflow: hidden;
 }
 
@@ -22,12 +23,13 @@
     color:white;
 }
 
-img {
+#main_img {
     display: block;
     margin-top: 2%;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    height: 30vh;
+    width: auto;
     object-fit: contain;
 }
 
@@ -35,6 +37,7 @@ img {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .prev_next a:hover {
@@ -56,3 +59,7 @@ img {
     border-radius: 5%;
 }
 
+.header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
