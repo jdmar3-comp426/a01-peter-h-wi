@@ -21,3 +21,38 @@
     background-color: #04AA6D;
     color:white;
 }
+
+img {
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    object-fit: contain;
+}
+
+.prev_next a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+.prev_next a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.previous {
+    background-color: #333;
+    color: white;
+    float: left;
+    border-radius: 5%;
+}
+
+.next {
+    background-color: #04AA6D;
+    color: white;
+    float: right;
+    border-radius: 5%;
+}
+
