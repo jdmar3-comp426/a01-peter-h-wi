@@ -27,7 +27,7 @@
     color:white;
 }
 
-#main_img {
+.main_img {
     display: block;
     margin-top: 2%;
     margin-left: auto;
@@ -72,6 +72,6 @@
     font-family: sans-serif;
 }
 
-#main_body {
+.main_body {
     font-family: arial;
 }
